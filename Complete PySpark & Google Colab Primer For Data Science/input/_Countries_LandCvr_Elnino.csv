@@ -1,0 +1,154 @@
+NAME_0,yearType,lndcvr_,n
+Bolivia,ElNino,Barren or sparsely vegetated,21
+Bolivia,ElNino,Closed shrublands,18
+Bolivia,ElNino,Croplands,1485
+Bolivia,ElNino,Deciduous Broadleaf forest,105
+Bolivia,ElNino,Deciduous Needleleaf forest,1
+Bolivia,ElNino,Evergreen Broadleaf forest,11514
+Bolivia,ElNino,Evergreen Needleleaf forest,95
+Bolivia,ElNino,Grasslands,9428
+Bolivia,ElNino,Mixed forest,604
+Bolivia,ElNino,Open shrublands,37
+Bolivia,ElNino,Savannas,24447
+Bolivia,ElNino,Urban and built-up,9
+Bolivia,ElNino,Woody savannas,7426
+Bolivia,NonElNino,Barren or sparsely vegetated,6
+Bolivia,NonElNino,Closed shrublands,16
+Bolivia,NonElNino,Croplands,467
+Bolivia,NonElNino,Deciduous Broadleaf forest,27
+Bolivia,NonElNino,Deciduous Needleleaf forest,1
+Bolivia,NonElNino,Evergreen Broadleaf forest,3507
+Bolivia,NonElNino,Evergreen Needleleaf forest,36
+Bolivia,NonElNino,Grasslands,3860
+Bolivia,NonElNino,Mixed forest,196
+Bolivia,NonElNino,Open shrublands,15
+Bolivia,NonElNino,Savannas,7300
+Bolivia,NonElNino,Urban and built-up,4
+Bolivia,NonElNino,Woody savannas,2669
+Brazil,ElNino,Barren or sparsely vegetated,101
+Brazil,ElNino,Closed shrublands,262
+Brazil,ElNino,Croplands,17489
+Brazil,ElNino,Deciduous Broadleaf forest,194
+Brazil,ElNino,Deciduous Needleleaf forest,1
+Brazil,ElNino,Evergreen Broadleaf forest,55930
+Brazil,ElNino,Evergreen Needleleaf forest,379
+Brazil,ElNino,Grasslands,7228
+Brazil,ElNino,Mixed forest,1033
+Brazil,ElNino,Open shrublands,75
+Brazil,ElNino,Savannas,99296
+Brazil,ElNino,Urban and built-up,46
+Brazil,ElNino,Woody savannas,7130
+Brazil,NonElNino,Barren or sparsely vegetated,46
+Brazil,NonElNino,Closed shrublands,128
+Brazil,NonElNino,Croplands,7212
+Brazil,NonElNino,Deciduous Broadleaf forest,82
+Brazil,NonElNino,Deciduous Needleleaf forest,2
+Brazil,NonElNino,Evergreen Broadleaf forest,15981
+Brazil,NonElNino,Evergreen Needleleaf forest,121
+Brazil,NonElNino,Grasslands,3210
+Brazil,NonElNino,Mixed forest,371
+Brazil,NonElNino,Open shrublands,36
+Brazil,NonElNino,Savannas,28013
+Brazil,NonElNino,Urban and built-up,12
+Brazil,NonElNino,Woody savannas,3084
+Colombia,ElNino,Barren or sparsely vegetated,8
+Colombia,ElNino,Closed shrublands,11
+Colombia,ElNino,Croplands,205
+Colombia,ElNino,Deciduous Broadleaf forest,48
+Colombia,ElNino,Evergreen Broadleaf forest,4957
+Colombia,ElNino,Evergreen Needleleaf forest,11
+Colombia,ElNino,Grasslands,3536
+Colombia,ElNino,Mixed forest,9
+Colombia,ElNino,Savannas,5386
+Colombia,ElNino,Urban and built-up,2
+Colombia,ElNino,Woody savannas,658
+Colombia,NonElNino,Barren or sparsely vegetated,1
+Colombia,NonElNino,Closed shrublands,3
+Colombia,NonElNino,Croplands,121
+Colombia,NonElNino,Deciduous Broadleaf forest,39
+Colombia,NonElNino,Evergreen Broadleaf forest,2897
+Colombia,NonElNino,Evergreen Needleleaf forest,5
+Colombia,NonElNino,Grasslands,2003
+Colombia,NonElNino,Mixed forest,3
+Colombia,NonElNino,Savannas,2593
+Colombia,NonElNino,Urban and built-up,1
+Colombia,NonElNino,Woody savannas,399
+Ecuador,ElNino,Barren or sparsely vegetated,1
+Ecuador,ElNino,Evergreen Broadleaf forest,51
+Ecuador,ElNino,Evergreen Needleleaf forest,1
+Ecuador,ElNino,Grasslands,2
+Ecuador,ElNino,Mixed forest,2
+Ecuador,ElNino,Savannas,1
+Ecuador,ElNino,Woody savannas,1
+Ecuador,NonElNino,Evergreen Broadleaf forest,6
+Ecuador,NonElNino,Evergreen Needleleaf forest,2
+Guyana,ElNino,Barren or sparsely vegetated,9
+Guyana,ElNino,Closed shrublands,11
+Guyana,ElNino,Croplands,854
+Guyana,ElNino,Deciduous Broadleaf forest,7
+Guyana,ElNino,Deciduous Needleleaf forest,1
+Guyana,ElNino,Evergreen Broadleaf forest,832
+Guyana,ElNino,Evergreen Needleleaf forest,2
+Guyana,ElNino,Grasslands,903
+Guyana,ElNino,Mixed forest,24
+Guyana,ElNino,Open shrublands,9
+Guyana,ElNino,Savannas,613
+Guyana,ElNino,Woody savannas,318
+Guyana,NonElNino,Barren or sparsely vegetated,1
+Guyana,NonElNino,Closed shrublands,3
+Guyana,NonElNino,Croplands,568
+Guyana,NonElNino,Deciduous Broadleaf forest,5
+Guyana,NonElNino,Evergreen Broadleaf forest,206
+Guyana,NonElNino,Evergreen Needleleaf forest,1
+Guyana,NonElNino,Grasslands,504
+Guyana,NonElNino,Mixed forest,5
+Guyana,NonElNino,Open shrublands,4
+Guyana,NonElNino,Savannas,348
+Guyana,NonElNino,Urban and built-up,1
+Guyana,NonElNino,Woody savannas,120
+Peru,ElNino,Barren or sparsely vegetated,3
+Peru,ElNino,Closed shrublands,4
+Peru,ElNino,Croplands,103
+Peru,ElNino,Deciduous Broadleaf forest,17
+Peru,ElNino,Evergreen Broadleaf forest,4652
+Peru,ElNino,Evergreen Needleleaf forest,20
+Peru,ElNino,Grasslands,360
+Peru,ElNino,Mixed forest,69
+Peru,ElNino,Savannas,1341
+Peru,ElNino,Urban and built-up,9
+Peru,ElNino,Woody savannas,400
+Peru,NonElNino,Barren or sparsely vegetated,1
+Peru,NonElNino,Closed shrublands,1
+Peru,NonElNino,Croplands,38
+Peru,NonElNino,Deciduous Broadleaf forest,2
+Peru,NonElNino,Evergreen Broadleaf forest,2000
+Peru,NonElNino,Evergreen Needleleaf forest,6
+Peru,NonElNino,Grasslands,95
+Peru,NonElNino,Mixed forest,26
+Peru,NonElNino,Savannas,497
+Peru,NonElNino,Urban and built-up,1
+Peru,NonElNino,Woody savannas,149
+Venezuela,ElNino,Closed shrublands,13
+Venezuela,ElNino,Croplands,253
+Venezuela,ElNino,Deciduous Broadleaf forest,42
+Venezuela,ElNino,Deciduous Needleleaf forest,1
+Venezuela,ElNino,Evergreen Broadleaf forest,4193
+Venezuela,ElNino,Evergreen Needleleaf forest,7
+Venezuela,ElNino,Grasslands,1259
+Venezuela,ElNino,Mixed forest,39
+Venezuela,ElNino,Open shrublands,8
+Venezuela,ElNino,Savannas,1411
+Venezuela,ElNino,Urban and built-up,9
+Venezuela,ElNino,Woody savannas,1462
+Venezuela,NonElNino,Barren or sparsely vegetated,2
+Venezuela,NonElNino,Closed shrublands,8
+Venezuela,NonElNino,Croplands,41
+Venezuela,NonElNino,Deciduous Broadleaf forest,16
+Venezuela,NonElNino,Evergreen Broadleaf forest,1008
+Venezuela,NonElNino,Evergreen Needleleaf forest,5
+Venezuela,NonElNino,Grasslands,587
+Venezuela,NonElNino,Mixed forest,14
+Venezuela,NonElNino,Open shrublands,6
+Venezuela,NonElNino,Savannas,353
+Venezuela,NonElNino,Urban and built-up,4
+Venezuela,NonElNino,Woody savannas,575
